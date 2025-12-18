@@ -4,7 +4,6 @@ import money.Money;
 import movie.step01.DiscountCondition;
 import movie.step01.Screening;
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
