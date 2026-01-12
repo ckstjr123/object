@@ -1,0 +1,1 @@
+## 명령-쿼리 분리(Command-Query Separation) 원칙
